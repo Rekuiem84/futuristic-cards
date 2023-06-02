@@ -101,6 +101,9 @@ body {
 	align-items: center;
 	gap: 0.8rem;
 }
+.color-selection-cont[aria-hidden="true"] input {
+	display: none;
+}
 .main-cont {
 	display: grid;
 	place-items: center;

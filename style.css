@@ -4,7 +4,6 @@
 	box-sizing: border-box;
 	margin: 0;
 	padding: 0;
-	font-family: "Noto Sans Mono", monospace;
 }
 :root {
 	--color-black: #101010;
@@ -13,7 +12,9 @@ html {
 	color-scheme: dark;
 	background-color: var(--color-black);
 }
-
+body {
+	font-family: "Noto Sans Mono", monospace;
+}
 .header {
 	position: absolute;
 	top: 60px;

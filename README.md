@@ -1,6 +1,6 @@
 # Futuristic cards
 
-Second project of [this challenge](https://github.com/Rekuiem84/personal-challenges).
+Second project of [this challenge](https://github.com/Rekuiem84/personal-challenge).
 
 ### What this project contains : 
 

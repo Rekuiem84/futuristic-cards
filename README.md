@@ -4,4 +4,4 @@ Second project of [this challenge](https://github.com/Rekuiem84/personal-challen
 
 ### What this project contains : 
 
-- 3 futuristic glassmorphed (glassmorphist ?, glassmorphism ?) cards with customizable colors.
+- 3 futuristic glassmorphistic (glassmorphed ?) cards with custom colors.
